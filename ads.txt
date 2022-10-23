@@ -1,6 +1,9 @@
 www.googleadservices.com
+www.googletagservices.com
 tpc.googlesyndication.com
+lh5.googleusercontent.com
 googleads.g.doubleclick.net
+s0.2mdn.net
 cdn.flashtalking.com
 r5---sn-nja7snle.c.2mdn.net
 trc.taboola.com
@@ -19,4 +22,9 @@ trck.tracking505.com
 authorspick.com
 adclick.g.doubleclick.net
 yt3.ggpht.com
-lh5.googleusercontent.com
+aax-us-east.amazon-adsystem.com
+pagead2.googlesyndication.com
+nym1-ib.adnxs.com
+acdn.adnxs-simple.com
+cdn.adnxs.com
+
